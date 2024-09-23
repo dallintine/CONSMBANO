@@ -12,8 +12,10 @@ This app offers features that cater to both academic and operational needs, such
    
 By digitizing and automating many time-consuming processes in nursing school management, this app enhances operational efficiency and allows administrators to focus on providing high-quality education. Its user-friendly design ensures easy navigation for users with varying technical proficiency, and its robust backend supports secure and scalable management of critical institutional data
 
-Must include link to your deployed site, 
+ link to my deployed site, 
+ 
 https://consmbano.com/
+
 https://www.linkedin.com/in/sammy-egwu-8b879199/
 
 Installation
