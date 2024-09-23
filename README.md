@@ -4,6 +4,8 @@ Conmbano Nursing Management App
 
 
 Introduction
+![image](https://github.com/user-attachments/assets/6ad1f294-0df7-4d4e-a310-83a5e6e34b98)
+
 The Nursing Management App is a comprehensive solution designed to streamline the management of students, staff, and operations within a nursing school. It aims to simplify administrative tasks, improve communication, and enhance the overall management experience for educational institutions 
 
 This app offers features that cater to both academic and operational needs, such as:
@@ -16,10 +18,11 @@ This app offers features that cater to both academic and operational needs, such
 By digitizing and automating many time-consuming processes in nursing school management, this app enhances operational efficiency and allows administrators to focus on providing high-quality education. Its user-friendly design ensures easy navigation for users with varying technical proficiency, and its robust backend supports secure and scalable management of critical institutional data
 
  link to my deployed site, 
- 
-https://consmbano.com/
+ [
+https://consmbano.com/](https://consmbano.com/)
 
 https://www.linkedin.com/in/sammy-egwu-8b879199/
+![image](https://github.com/user-attachments/assets/844ddaea-cdab-4f45-ab58-656d76a11019)
 
 Installation
 1. System Requirements
@@ -93,6 +96,7 @@ If using biometric devices (like the U.Are.U 4500), ensure the SDK is installed 
 4. Access the App
 Once the installation is complete and the server is running, open your web browser and navigate to: 
 
+![image](https://github.com/user-attachments/assets/ced0f1c4-fa21-4ea9-b3db-41af08ceef91)
 
 http://localhost/College-of-Nursing-Sciences
 You should now be able to access the Nursing Management App dashboard.
