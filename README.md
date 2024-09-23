@@ -1,5 +1,8 @@
 Conmbano Nursing Management App
 
+![image](https://github.com/user-attachments/assets/09f718de-6038-47bc-8241-9b06ed3d77fa)
+
+
 Introduction
 The Nursing Management App is a comprehensive solution designed to streamline the management of students, staff, and operations within a nursing school. It aims to simplify administrative tasks, improve communication, and enhance the overall management experience for educational institutions 
 
